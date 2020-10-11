@@ -1,6 +1,6 @@
 {
   "name": "@fengyinchao/eslint-plugin-custom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "eslint-plugin-custom",
   "main": "lib/src/index.js",
   "scripts": {
