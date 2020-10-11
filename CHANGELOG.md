@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/fengyinchao/eslint-plugin-custom/compare/v0.0.4...v0.0.5) (2020-10-11)
+
+
+### Features
+
+* add extract-log-url rule in angular component ([6538606](https://github.com/fengyinchao/eslint-plugin-custom/commit/6538606c2c88b3cc6715e8ba7e1f10929b325a77))
+
 ### [0.0.4](https://github.com/fengyinchao/eslint-plugin-custom/compare/v0.0.3...v0.0.4) (2020-10-11)
 
 
