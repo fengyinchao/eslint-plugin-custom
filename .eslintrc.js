@@ -25,7 +25,7 @@ module.exports = {
   },
   parser: '@typescript-eslint/parser',
   parserOptions: {
-    project: ['./tsconfig.app.json'],
+    project: ['./tsconfig.json'],
     sourceType: 'module',
   },
   plugins: ['prettier', '@typescript-eslint'],

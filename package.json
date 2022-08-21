@@ -1,11 +1,11 @@
 {
   "name": "@fengyinchao/eslint-plugin-custom",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "eslint-plugin-custom",
   "main": "lib/src/index.js",
   "scripts": {
     "start": "ts-node-dev src/index.ts",
-    "build": "tsc -p tsconfig.app.json",
+    "build": "tsc -p tsconfig.json",
     "release": "standard-version"
   },
   "husky": {

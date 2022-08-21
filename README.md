@@ -2,6 +2,8 @@
 
 这是一个自定义规则的 ESLint Plugin，用于规范业务代码，当前支持规则有：
 
+- [x] file-header-annotation
+      文件头必须要有注释
 - [x] no-first
       rxjs 中不允许使用 no-first
 - [x] no-useless-optional-chain

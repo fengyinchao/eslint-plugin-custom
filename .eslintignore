@@ -3,6 +3,7 @@ coverage
 dist
 node_modules
 release
+lib
 
 commitlint.config.js
 
