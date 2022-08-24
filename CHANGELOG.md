@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/fengyinchao/eslint-plugin-custom/compare/v0.0.6...v0.0.7) (2022-08-24)
+
+
+### Features
+
+* add new rule ([e13da77](https://github.com/fengyinchao/eslint-plugin-custom/commit/e13da7741c6e9c84d7a5fdab25137ed56d894bbd))
+
 ### [0.0.6](https://github.com/fengyinchao/eslint-plugin-custom/compare/v0.0.5...v0.0.6) (2022-08-21)
 
 ### Features
