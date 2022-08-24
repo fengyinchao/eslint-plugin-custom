@@ -2,6 +2,11 @@
 
 这是一个自定义规则的 ESLint Plugin，用于规范业务代码，当前支持规则有：
 
+
+- [x] style-generate
+      RN中辅助生成 styles.xxx
+- [x] scrollview-flatlist-sectionlist-use-scrollIndicatorInsets
+      RN 中的组件 scrollview flatlist sectionlist 需要显示使用 scrollIndicatorInsets 属性以规避 ios12 上的问题
 - [x] file-header-annotation
       文件头必须要有注释
 - [x] no-first
